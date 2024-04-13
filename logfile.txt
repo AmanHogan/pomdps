@@ -1,0 +1,46 @@
+2024-04-13 16:14:50: ======== START ========
+2024-04-13 16:14:50: {'start_state': "(1, 1, 'UP')", 'episode_num': 25, 'episode_length': 2000, 'alpha': 0.1, 'gamma': 1.0, 'epsilon': 0.3, 'num_obstacles': 5, 'trials': 4}
+OBSTACLES:[(8, 14), (6, 14), (5, 1), (1, 17), (2, 5)]
+GOAL:(7, 4)
+2024-04-13 16:14:50: Trial: 1. Starting Q Learning
+2024-04-13 16:15:00: Trial: 1. Finished Q Learning. Goal finding efficiency: 0.88
+2024-04-13 16:15:00: Trial: 1. Starting Linear Q Learning
+2024-04-13 16:16:41: Trial: 1. Finished Linear Q Learning. Goal finding efficiency: 0.68
+2024-04-13 16:16:41: Trial: 1. Starting Replicated Learning
+2024-04-13 16:16:51: Trial: 1. Finished Replicated Learning Q Learning. Goal finding efficiency: 1.0
+2024-04-13 16:16:51: Trial: 1. Starting QMDP Learning
+2024-04-13 16:17:17: Trial: 1. Finished Starting QMDP Learning. Goal finding efficiency: 1.0
+2024-04-13 16:17:17: {'start_state': "(1, 1, 'UP')", 'episode_num': 25, 'episode_length': 2000, 'alpha': 0.1, 'gamma': 1.0, 'epsilon': 0.3, 'num_obstacles': 5, 'trials': 4}
+OBSTACLES:[(2, 14), (10, 4), (10, 19), (7, 5), (10, 2)]
+GOAL:(6, 5)
+2024-04-13 16:17:17: Trial: 2. Starting Q Learning
+2024-04-13 16:17:24: Trial: 2. Finished Q Learning. Goal finding efficiency: 0.96
+2024-04-13 16:17:24: Trial: 2. Starting Linear Q Learning
+2024-04-13 16:19:13: Trial: 2. Finished Linear Q Learning. Goal finding efficiency: 0.64
+2024-04-13 16:19:13: Trial: 2. Starting Replicated Learning
+2024-04-13 16:19:44: Trial: 2. Finished Replicated Learning Q Learning. Goal finding efficiency: 0.92
+2024-04-13 16:19:44: Trial: 2. Starting QMDP Learning
+2024-04-13 16:21:27: Trial: 2. Finished Starting QMDP Learning. Goal finding efficiency: 0.64
+2024-04-13 16:21:27: {'start_state': "(1, 1, 'UP')", 'episode_num': 25, 'episode_length': 2000, 'alpha': 0.1, 'gamma': 1.0, 'epsilon': 0.3, 'num_obstacles': 5, 'trials': 4}
+OBSTACLES:[(2, 17), (6, 20), (1, 10), (3, 12), (5, 9)]
+GOAL:(6, 2)
+2024-04-13 16:21:27: Trial: 3. Starting Q Learning
+2024-04-13 16:21:34: Trial: 3. Finished Q Learning. Goal finding efficiency: 0.88
+2024-04-13 16:21:34: Trial: 3. Starting Linear Q Learning
+2024-04-13 16:22:32: Trial: 3. Finished Linear Q Learning. Goal finding efficiency: 0.88
+2024-04-13 16:22:32: Trial: 3. Starting Replicated Learning
+2024-04-13 16:23:19: Trial: 3. Finished Replicated Learning Q Learning. Goal finding efficiency: 0.92
+2024-04-13 16:23:19: Trial: 3. Starting QMDP Learning
+2024-04-13 16:24:54: Trial: 3. Finished Starting QMDP Learning. Goal finding efficiency: 0.68
+2024-04-13 16:24:54: {'start_state': "(1, 1, 'UP')", 'episode_num': 25, 'episode_length': 2000, 'alpha': 0.1, 'gamma': 1.0, 'epsilon': 0.3, 'num_obstacles': 5, 'trials': 4}
+OBSTACLES:[(4, 10), (6, 4), (2, 3), (4, 11), (10, 2)]
+GOAL:(9, 6)
+2024-04-13 16:24:54: Trial: 4. Starting Q Learning
+2024-04-13 16:25:09: Trial: 4. Finished Q Learning. Goal finding efficiency: 0.8
+2024-04-13 16:25:09: Trial: 4. Starting Linear Q Learning
+2024-04-13 16:27:35: Trial: 4. Finished Linear Q Learning. Goal finding efficiency: 0.44
+2024-04-13 16:27:35: Trial: 4. Starting Replicated Learning
+2024-04-13 16:29:06: Trial: 4. Finished Replicated Learning Q Learning. Goal finding efficiency: 0.68
+2024-04-13 16:29:06: Trial: 4. Starting QMDP Learning
+2024-04-13 16:30:49: Trial: 4. Finished Starting QMDP Learning. Goal finding efficiency: 0.72
+2024-04-13 16:31:23: ======== FINISH ========
