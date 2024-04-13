@@ -1,4 +1,4 @@
-"""Models the envirnoment of the dual elevator schedule RL problem"""
+"""Models the grid world environment for fully observable environemnt."""
 
 import sys
 import numpy as np
